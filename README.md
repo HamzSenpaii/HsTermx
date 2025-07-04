@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash">
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green" alt="Platform">
   <img src="https://img.shields.io/badge/License-Custom--by--HamzSenpaii-informational" alt="License">
 </p>
